@@ -2,7 +2,7 @@
 
 I'm Onur Osman Güle, Full-Stack Developer and Penetration Tester from Istanbul, Turkey.
 
-I am currently working **@Turkcell** as a Offensive Security Engineer.
+I am currently working **@Turkcell** as Offensive Security Engineer.
 
 - 🔭 I’m currently working on Penetration Testing
 - 🌱 I’m currently learning Quantum Programming
